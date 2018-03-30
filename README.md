@@ -1,4 +1,4 @@
-## Twitter-sentiment
+## Twitter-sentiment analysis
 
 Thie repository contains notebooks for analyzing the sentiment of tweets about self driving cars. The sentiment of each tweet is ranked from 1 (negative) to 5 (positive). 
 
